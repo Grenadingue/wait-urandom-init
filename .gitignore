@@ -1,0 +1,7 @@
+# Binaries
+*.o
+wait-urandom-init
+
+# Emacs
+*~
+.*~
